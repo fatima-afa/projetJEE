@@ -43,7 +43,8 @@ Pour communiquer avec le backend il est evident que l'on aura besoins d'un modul
 
 'import {HttpClient} from "@angular/common/http";'
 
-<H4>Account : </h4>
+<h4>Account : </h4>
+
 ```typescript
 import { Injectable } from '@angular/core';
 import {HttpClient} from "@angular/common/http";
@@ -75,7 +76,7 @@ export class AccountsService {
   }
 }
 ```
-<H4>Customer : </h4>
+<h4>Customer : </h4>
 
 ```typescript
 import { Injectable } from '@angular/core';
