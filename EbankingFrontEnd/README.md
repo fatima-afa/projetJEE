@@ -113,5 +113,5 @@ export class CustomerService {
 </br>
 <img src="https://s6.imgcdn.dev/rpmBD.png" alt="New customer page"/>
 </br>
-<img src="https://s6.imgcdn.dev/rpqL9.png" alt="account Oper page"/>
+<img src="https://s6.imgcdn.dev/rpqL9.png" alt="account Opert page"/>
 </br>
