@@ -10,7 +10,7 @@
   <img src="https://s6.imgcdn.dev/rpfVu.png" alt="logo mysqwl"/>
 #Conception :
   diagramme de classe : 
-  <img src="https://imgcdn.dev/i/rpZLN" alt="diagramme de classe" />
+  <img src="https://s6.imgcdn.dev/rp32w.png" alt="diagramme de classe" />
   
 
   
