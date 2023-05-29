@@ -1,12 +1,10 @@
 <h1>Digital Banking Front End</h1>
 <h3>Installation de Angular</h3>
-```shell
-ng serve
-```
+`ng serve`
+
 <h3>Initialisation du projet :</h3>
-```shell 
-ng new EbankingFrontEnd
-```
+`ng new EbankingFrontEnd`
+
 <h3>Models</h3>
 <strong>AccountDetails</strong>
 
