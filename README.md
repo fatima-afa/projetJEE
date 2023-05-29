@@ -1,7 +1,7 @@
 # projetJEE
-#Architecture de projet : 
-<img src="https://imgcdn.dev/i/rpACghttps://imgcdn.dev/i/rpO7v" alt="architecture du projet"/>
-#Environnement de travail et outils
+<h1>Architecture de projet : </h1>
+<img src="https://s6.imgcdn.dev/rpdsa.png" alt="architecture du projet"/>
+<h1>Environnement de travail et outils</h1>
 <h4>Backend : Spring</h4>
   <img src="https://s6.imgcdn.dev/rpRwq.png" alt="logo spring" />
 <h4>Frontend : Angular</h4>
